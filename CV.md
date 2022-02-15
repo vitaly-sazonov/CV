@@ -56,4 +56,4 @@
 
 ### **English**
 
-- **A1**, but i practice constantly
+- **A1-A2**, but i practice constantly
