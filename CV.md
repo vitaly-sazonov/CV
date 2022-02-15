@@ -52,6 +52,7 @@
 
 - `2006-2011` Moscow, Zelenograd, National Research University of Electronic Technology, Secure telecommunications
 - `2018` [Node.js](https://learn.javascript.ru/courses/nodejs) from Ilya Kantor
+- `2019` [Basic Javasript] from Ilya Klimov Javascript.Ninja
 - `2020-2021` [Node.js](https://rs.school/nodejs) from The Rolling Scopes School
 
 ### **English**
