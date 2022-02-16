@@ -40,7 +40,7 @@
 ### **Skills**
 
 - HTML, CSS
-- Javascript, React, Mobx, Redux
+- Javascript, Typescript, React, Mobx, Redux
 - Webpack
 - NodeJS, Fastify, KoaJS, NestJS
 - SQL, PostgreSQL, MySQL
