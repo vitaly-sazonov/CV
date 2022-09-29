@@ -36,7 +36,7 @@
   - Built a backend based on fastifyJS with data storage from testing in PostgreSWL
   - Built an authentication service based on Redis for caching user session data
   > _Stack:_ PWA, React, Node.JS, PostgreSQL, Redis
-- `2020-2021` **Flutter app for medical staff
+- `2020-2021` **Flutter app for medical staff**
   - created authorization based on firebase
   - created task tracking
   - created a planner (calendar)
