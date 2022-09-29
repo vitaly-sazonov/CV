@@ -38,10 +38,10 @@
   > _Stack:_ PWA, React, Node.JS, PostgreSQL, Redis
 - `2020-2021` **Flutter app for medical staff
   - created authorization based on firebase
-- created task tracking
-- created a planner (calendar)
-- integration with internal medical service
-> _Stack:_ Dart, Flutter, NestJS, PostgreSQL, Redis
+  - created task tracking
+  - created a planner (calendar)
+  - integration with internal medical service
+  > _Stack:_ Dart, Flutter, NestJS, PostgreSQL, Redis
 
 ### **Skills**
 
