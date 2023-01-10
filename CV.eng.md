@@ -42,7 +42,7 @@
   - created a planner (calendar)
   - integration with internal medical service
   > _Stack:_ Dart, Flutter, NestJS, PostgreSQL, Redis
-- `2020-2021` **Flutter app for boiler service engineers**
+- `2022` **Flutter app for boiler service engineers**
   - creating applications for the departure of an engineer at the place of installation of equipment
   - route was created together with Yandex.navigator
   - forms for drawing up acts of completed work with additional transformation into pdf
