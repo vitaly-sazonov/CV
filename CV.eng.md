@@ -1,6 +1,6 @@
 # **_Vitaly Sazonov_**
 
-## **Middle Fullstack JS Developer**
+## **Fullstack JS Developer**
 
 > Live, learn and create cool things.
 
