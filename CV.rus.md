@@ -1,6 +1,6 @@
 # **_Виталий Сазонов_**
 
-## **Middle Fullstack JavaScript Разработчик**
+## **Fullstack JavaScript Разработчик**
 
 > Живи, учись и создавай крутые вещи.
 
